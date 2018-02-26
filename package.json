@@ -10,7 +10,7 @@
     "duotone",
     "syntax"
   ],
-  "repository": "https://github.com/tsangkenneth/duotone-light-blue-syntax",
+  "repository": "https://github.com/corelon/duotone-light-blue-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.0.0"
